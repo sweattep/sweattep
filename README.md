@@ -1,5 +1,5 @@
 ```
-                 [ Full-Stack Developer Career Path ]
+                           [ Career ]
                                |
                                V
 +---------------------------------------------------+
