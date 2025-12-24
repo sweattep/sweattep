@@ -10,7 +10,7 @@
                                V
 +---------------------------------------------------+
 |                  Middleware Layer                 |
-|   PHP | Python | Java | JavaScript                |
+|   PHP | Python | Golang | Java | JavaScript       |
 +---------------------------------------------------+
                                |
                                V
@@ -22,14 +22,14 @@
                                V
 +---------------------------------------------------+
 |                  DevOps & Tooling                 |
-|   Git | Mercurial | Composer | Poetry             |
+|   Git | Mercurial | Maven | Composer | Poetry     |
 |   Jenkins | CircleCI                              |
 +---------------------------------------------------+
                                |
                                V
 +---------------------------------------------------+
 |                  Integration Layer                |
-|   REST APIs | Webhooks | GraphQL                  |
+|   REST APIs | SFTP | Webhooks | GraphQL           |
 +---------------------------------------------------+
                                |
                                V
