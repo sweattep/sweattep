@@ -1,16 +1,47 @@
-## Hi there 👋
-
-<!--
-**sweattep/sweattep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+                 [ Full-Stack Developer Career Path ]
+                               |
+                               V
++---------------------------------------------------+
+|                  SQL Databases                    |
+|  Postgres | Oracle | MySQL | MariaDB | Sybase     |
++---------------------------------------------------+
+                               |
+                               V
++---------------------------------------------------+
+|                  Middleware Layer                 |
+|   PHP | Python | Java | JavaScript                |
++---------------------------------------------------+
+                               |
+                               V
++---------------------------------------------------+
+|                  Testing Frameworks               |
+|   pytest | PHPUnit | Cypress | Jest | Selenium    |
++---------------------------------------------------+
+                               |
+                               V
++---------------------------------------------------+
+|                  DevOps & Tooling                 |
+|   Git | Mercurial | Composer | Poetry             |
+|   Jenkins | CircleCI                              |
++---------------------------------------------------+
+                               |
+                               V
++---------------------------------------------------+
+|                  Integration Layer                |
+|   REST APIs | Webhooks | GraphQL                  |
++---------------------------------------------------+
+                               |
+                               V
++---------------------------------------------------+
+|              Cloud Infrastructure (AWS)           |
+| IAM | WAF | CloudFront | Route53 | CloudFormation |
+| RDS | SQS | SES | Step Functions                  |
++---------------------------------------------------+
+                               |
+                               V
++---------------------------------------------------+
+|                  Collaboration Tools              |
+|   Slack | Jira | Asana | Shortcut | Code Reviews  |
++---------------------------------------------------+
+```
