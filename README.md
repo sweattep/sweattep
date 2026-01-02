@@ -1,4 +1,46 @@
 ```
+          |=>> Knowledge Base Curation
+          |
+          |=>> Fraud Detection Automation
+          |
+          |=>> Audit Dashboard
+          |
++----------------------+
+|  SOFTWARE ENGINEERING|
++----------------------+
+          |
+          |=>> Data
+                    |
+                    |=>> Metadata Classification
+                              |
+                              |=>> Data Deduplication
+                                        |
+                                        |=>> Data Enrichment
+                                                  |
+                                                  |=>> Member Segmentation
+
+
++------------------+
+|  INFRASTRUCTURE  |
++------------------+
+          |
+          |=>> Python
+          |
+          |=>> DevOps
+          |
+          |=>> Front-End Frameworks
+          |
+          |=>> Code Review
+          |
+          |=>> Testing
+          |
+          |=>> Data Security
+          |
+          |=>> Data Pipeline
+```
+
+
+```
                            [ Career ]
                                |
                                V
