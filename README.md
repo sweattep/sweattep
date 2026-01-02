@@ -5,6 +5,10 @@
           |
           |=>> Audit Dashboard
           |
+          |=>> Payment API Integration (Stripe, Plaid)
+          |
+          |=>> Auth API Integration (OAuth, SAML)
+          |
 +----------------------+
 |  SOFTWARE ENGINEERING|
 +----------------------+
