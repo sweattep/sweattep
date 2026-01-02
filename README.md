@@ -28,19 +28,19 @@
 |  INFRASTRUCTURE  |
 +------------------+
           |
-          |=>> Python
-          |
           |=>> DevOps
           |
-          |=>> Front-End Frameworks
+          |=>> Backend (Python, NodeJS)
+          |
+          |=>> Front-End Frameworks (Vue, React)
           |
           |=>> Code Review
           |
           |=>> Testing
           |
-          |=>> Data Security
+          |=>> Data Security (IAM, RBAC)
           |
-          |=>> Data Pipeline
+          |=>> Data Pipeline (ETLs, Data Warehouse)
 ```
 
 
