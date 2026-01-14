@@ -30,9 +30,9 @@
           |
           |=>> DevOps
           |
-          |=>> Backend (Python, NodeJS)
+          |=>> Backend (PHP, Python, Ruby, NodeJS)
           |
-          |=>> Front-End Frameworks (Vue, React)
+          |=>> Front-End (HTML((WCAG)), CSS((Tailwind)), JavaScript((Vue 2.x)), TypeScript((Vue 3.x)))
           |
           |=>> Code Review
           |
